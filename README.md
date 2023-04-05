@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon Whitelake(Семён Белозеров) aka @FacelessLake
+- 👋 Hi, I’m Simon Whitelake, @FacelessLake (aka Семён Белозеров)
 - 👀 I’m interested in programming, psychology and traveling.
 - 🌱 I’m currently learning Java, Spring Framework, Javascript, React, HTML and CSS.
 
