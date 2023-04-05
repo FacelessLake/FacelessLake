@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon Whitelake, @FacelessLake (aka Семён Белозеров)
-- 👀 I’m interested in programming, psychology and traveling.
+- 👀 I’m interested in programming, psychology, traveling and TTRPG.
 - 🌱 I’m currently learning Java, Spring Framework, Javascript, React, HTML and CSS.
 
 <!---
